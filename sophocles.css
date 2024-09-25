@@ -41,3 +41,9 @@ th{
 tr:nth-child(even) {
     background-color: peachpuff;
 }
+
+.character:hover {
+    text-shadow: 2px 2px 5px rgba(255, 162, 0, 0.7); 
+    border: 2px solid palevioletred; 
+    padding: 2px;
+ }
