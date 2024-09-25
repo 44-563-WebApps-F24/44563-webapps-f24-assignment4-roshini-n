@@ -47,3 +47,44 @@ tr:nth-child(even) {
     border: 2px solid palevioletred; 
     padding: 2px;
  }
+
+ .navbar-horizontal
+ {
+    background-color:skyblue;
+    bottom:0;
+    width: 100%;
+    position: initial;
+    border: #4db5c0;
+    padding :10px 0;
+    text-align: center;
+                                     
+
+ }
+.navbar-horizontal ul {
+    
+    list-style: none;
+    margin:0%;
+    padding: 0%;
+  
+  }
+  
+  .navbar-horizontal li {
+    display: inline;
+    margin: 0 15px;
+    float:center;
+  }
+  
+ .navbar-horizontal a {
+    color: black;
+    padding:2px
+    
+  }
+  .navbar-horizontal img{
+    vertical-align: middle;
+    margin-right: 5px;
+    height: 15px;
+  }
+
+  .navbar-horizontal li:hover{
+background-color:rgb(152, 194, 140);
+  }
