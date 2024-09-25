@@ -21,3 +21,20 @@ color: red;
 .oedipus{color: lawngreen;}
 .chorus{color: dimgrey;}
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+th{
+    background-color: lavenderblush;
+}
+
+tr:nth-child(even) {
+    background-color: peachpuff;
+    }
