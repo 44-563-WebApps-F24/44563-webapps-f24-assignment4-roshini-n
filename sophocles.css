@@ -20,6 +20,9 @@ color: red;
 .antigone{color: Aqua; }
 .oedipus{color: lawngreen;}
 .chorus{color: dimgrey;}
+.THESEUS{color: pink;}
+.POLYNICES{color: blueviolet;}
+.CREON{color: teal;}
 
 table {
     width: 100%;
@@ -37,4 +40,4 @@ th{
 
 tr:nth-child(even) {
     background-color: peachpuff;
-    }
+}
