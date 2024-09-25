@@ -1,0 +1,23 @@
+.speech {
+    font-family: "Times New Roman", Times, serif;
+    font-size : 16px;
+    color: black;
+}
+
+.direction {
+    font-family: "Courier", monospace;
+    font-size: 14px;
+    color: black;
+    background-color: lightyellow;
+    padding: auto;
+}
+
+.direction:hover {
+background-color: yellow;
+color: red;
+}
+
+.ANT{color: Aqua; }
+.OED{color: Beige;}
+.CH{color: dimgrey;}
+
